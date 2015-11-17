@@ -1,4 +1,4 @@
-package com.cyriljoui.spring.poc.springrabbitmq;
+package com.cyriljoui.spring.poc.awstest;
 
 
 import org.springframework.boot.SpringApplication;

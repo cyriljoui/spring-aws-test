@@ -1,4 +1,4 @@
-package com.cyriljoui.spring.poc.springrabbitmq.config;
+package com.cyriljoui.spring.poc.awstest.config;
 
 import com.amazonaws.services.ec2.AmazonEC2;
 import com.amazonaws.services.ec2.AmazonEC2Client;

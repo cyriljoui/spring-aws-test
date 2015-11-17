@@ -1,8 +1,7 @@
-package com.cyriljoui.spring.poc.springrabbitmq.web;
+package com.cyriljoui.spring.poc.awstest.web;
 
-import com.cyriljoui.spring.poc.springrabbitmq.config.ApplicationInfoBean;
+import com.cyriljoui.spring.poc.awstest.config.ApplicationInfoBean;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;

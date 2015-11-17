@@ -1,6 +1,6 @@
-package com.cyriljoui.spring.poc.springrabbitmq.web;
+package com.cyriljoui.spring.poc.awstest.web;
 
-import com.cyriljoui.spring.poc.springrabbitmq.Application;
+import com.cyriljoui.spring.poc.awstest.Application;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
 
